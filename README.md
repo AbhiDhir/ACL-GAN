@@ -1,4 +1,4 @@
-### Paper
+### Forked From ACL-GAN
 
 Yihao Zhao, Ruihai Wu, Hao Dong, ["Unpaired Image-to-Image Translation using Adversarial Consistency Loss"](https://arxiv.org/abs/2003.04858 ), ECCV 2020
 
@@ -59,7 +59,7 @@ For more results, please refer to our paper.
 
 ### Citation
 
-If you find this code useful for your research, please cite our paper:
+If you find this code useful for your research, please cite the paper:
 
 ```
 @inproceedings{zhao2020aclgan,
